@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2023-06-11T19:15:50.0724334Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2023-06-11T19:17:05.8190967Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "738a784e-9bfe-4968-adcd-eb212d916390"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "To-do-demo-RG"
+    }
+  }
+}
